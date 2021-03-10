@@ -1,7 +1,7 @@
 [
    {
       "repository":"android_kernel_xiaomi_davinci",
-      "target_path":"kernel/xiaomi/sm6150",
+      "target_path":"kernel/xiaomi/sm6150"
    },
    {
       "repository":"AdarshGrewal/vendor_xiaomi_davinci",
