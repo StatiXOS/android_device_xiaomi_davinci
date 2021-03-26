@@ -20,12 +20,5 @@
       "target_path":"packages/resources/devicesettings",
       "branch":"lineage-18.1",
       "remote":"github"
-   },
-   {
-      "repository":"kdrag0n/proton-clang",
-      "target_path":"prebuilts/clang/host/linux-x86/clang-proton",
-      "clone_depth":"1",
-      "branch":"master",
-      "remote":"github"
    }
 ]
